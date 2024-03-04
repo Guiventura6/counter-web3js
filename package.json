@@ -1,0 +1,16 @@
+{
+  "name": "counter-web3js",
+  "version": "1.0.0",
+  "description": "Counter with web3js",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Guilherme Ventura",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^4.5.0"
+  }
+}
